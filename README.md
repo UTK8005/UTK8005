@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, I'm Utkarsh Ujwal, an aspiring Machine Learning Engineer with a keen interest in Data Mining and Multimodal AI. 
+Hello, I'm Utkarsh Ujwal, an aspiring Machine Learning Engineer/ Data Scientist with a keen interest in Data Mining and Multimodal AI. 
 Currently, I am gaining valuable experience as an ML Engineer through an internship at RadicalX AI. 
 I am also interning with a Research Group to come up with novel method of scene graph generation.
 Feel free to connect with me via email at utkarsh.ujwal8005@gmail.com. 
